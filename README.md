@@ -6,7 +6,7 @@ $ pkg install python
 $ pkg install git  
 $ pip install requests  
 $ rm -rf dump  
-$ git clone https://github.com/Dapunta/dump  
+$ git clone https://github.com/AMIRXPLOID/dump  
 ```
 ## Run Script
 ```
